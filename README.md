@@ -12,11 +12,11 @@ A Self-taught Programmer Who writes functional Components<br> with React and can
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zotizzmoy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zotizzmoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<a href="https://app.daily.dev/jyotishmoy"><img src="https://api.daily.dev/devcards/60a5408206ed47b4bfade503227e1e54.png?r=inx" width="400" alt="Jyotishmoy Deka's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zotizzmoy&icon=0&color=0)](https://visitcount.itsvg.in)
